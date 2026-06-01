@@ -9,7 +9,7 @@ import {
 } from "./verticalBriefService.js";
 
 const productTitle = "Board Expansion Capacity Map";
-const domain = "https://capacity.kineticgain.com";
+const domain = "https://expansion.kineticgain.com";
 
 function escapeHtml(value: string) {
   return value

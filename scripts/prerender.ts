@@ -41,10 +41,10 @@ for (const [, [target, html]] of htmlRoutes) {
   writeFileSync(filePath, html);
 }
 
-writeFileSync(path.join(root, "robots.txt"), "User-agent: *\nAllow: /\nSitemap: https://capacity.kineticgain.com/sitemap.xml\n");
+writeFileSync(path.join(root, "robots.txt"), "User-agent: *\nAllow: /\nSitemap: https://expansion.kineticgain.com/sitemap.xml\n");
 writeFileSync(
   path.join(root, "sitemap.xml"),
-  `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://capacity.kineticgain.com/</loc></url><url><loc>https://capacity.kineticgain.com/capacity-map/</loc></url><url><loc>https://capacity.kineticgain.com/delivery-bottlenecks/</loc></url><url><loc>https://capacity.kineticgain.com/growth-sequencing/</loc></url><url><loc>https://capacity.kineticgain.com/verification/</loc></url><url><loc>https://capacity.kineticgain.com/docs/</loc></url></urlset>`
+  `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://expansion.kineticgain.com/</loc></url><url><loc>https://expansion.kineticgain.com/capacity-map/</loc></url><url><loc>https://expansion.kineticgain.com/delivery-bottlenecks/</loc></url><url><loc>https://expansion.kineticgain.com/growth-sequencing/</loc></url><url><loc>https://expansion.kineticgain.com/verification/</loc></url><url><loc>https://expansion.kineticgain.com/docs/</loc></url></urlset>`
 );
 
 const api = {

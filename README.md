@@ -2,7 +2,7 @@
 
 Board-ready expansion capacity map for throughput ceilings, operator bandwidth, delivery bottlenecks, and board-safe growth sequencing across the executive estate.
 
-- Live: `https://capacity.kineticgain.com/`
+- Live: `https://expansion.kineticgain.com/`
 - Repo: `mizcausevic-dev/board-expansion-capacity-map`
 
 ## Why this matters
