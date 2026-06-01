@@ -1,0 +1,225 @@
+{
+  "generatedAt": "2026-06-01T07:33:36.659Z",
+  "items": [
+    {
+      "id": "ai-accelerate-flagship-rollout",
+      "owner": "AI operating partner",
+      "audience": "Board strategy committee",
+      "track": "AI_PLATFORM",
+      "action": "ACCELERATE",
+      "readinessTheme": "Accelerate flagship rollout after wrapper retirement",
+      "boardQuestion": "Which AI lane is genuinely ready to scale into wider operating use right now?",
+      "currentPosture": "The AI flagship has absorbed wrapper tools and memo reuse is climbing, but leadership still needs one tighter readiness brief before wider rollout.",
+      "requiredProof": "Wrapper retirements, flagship reuse, and lower coordination drag across the AI lane.",
+      "expansionReadinessScore": 84,
+      "executionDragScore": 31,
+      "ownerConfidenceScore": 86,
+      "accelerationConfidenceScore": 88,
+      "urgencyScore": 71,
+      "addressableExpansionValueMillions": 4.8,
+      "headline": "AI is now an accelerate-ready lane instead of a scattered wrapper story.",
+      "narrative": "The strongest proof is that one flagship system is carrying more decision work while orchestration drag has fallen.",
+      "nextMove": "Package flagship reuse and wrapper retirement evidence into one board-ready acceleration packet.",
+      "companyTags": [
+        "IBM",
+        "OpenAI",
+        "Azure",
+        "MCP"
+      ],
+      "relatedSurfaces": [
+        "scorecard.kineticgain.com",
+        "memo.kineticgain.com",
+        "watsonx.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "AI Governance & Agent Readiness Scorecard",
+        "Executive Board Brief",
+        "Governance Registry"
+      ]
+    },
+    {
+      "id": "identity-fortify-owner-readiness",
+      "owner": "Identity assurance sponsor",
+      "audience": "Risk committee",
+      "track": "IDENTITY_SECURITY",
+      "action": "FORTIFY",
+      "readinessTheme": "Fortify owner readiness before wider consolidation",
+      "boardQuestion": "Which lane is strategically important but not yet ready to scale because ownership still runs thin?",
+      "currentPosture": "Identity is stable enough to protect, but remediation ownership and consolidation readiness are still uneven.",
+      "requiredProof": "Owner coverage, remediation closure timing, and avoided drag from duplicated identity controls.",
+      "expansionReadinessScore": 57,
+      "executionDragScore": 58,
+      "ownerConfidenceScore": 62,
+      "accelerationConfidenceScore": 73,
+      "urgencyScore": 76,
+      "addressableExpansionValueMillions": 2.4,
+      "headline": "Identity needs fortification before leadership treats it as a scaling lane.",
+      "narrative": "The board story here is not scale yet; it is to strengthen owner readiness so future leverage does not weaken the control surface.",
+      "nextMove": "Fortify remediation ownership and prove the lane can scale without adding new control drag.",
+      "companyTags": [
+        "CyberArk",
+        "Okta",
+        "Entra",
+        "Intune"
+      ],
+      "relatedSurfaces": [
+        "identity.kineticgain.com",
+        "protect.kineticgain.com",
+        "guest.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Identity Risk Evidence Ledger",
+        "Access review evidence",
+        "Intune posture proof"
+      ]
+    },
+    {
+      "id": "revenue-redeploy-margin-machinery",
+      "owner": "Revenue systems partner",
+      "audience": "CFO operating review",
+      "track": "REVENUE_SYSTEMS",
+      "action": "HOLD",
+      "readinessTheme": "Hold acceleration until analyst time moves into cleaner reporting throughput",
+      "boardQuestion": "Where can we free capacity and turn it into better reporting throughput instead of more dashboard churn?",
+      "currentPosture": "Revenue systems have reduced backlog noise, but capacity still leaks into manual explanation work and tool overlap.",
+      "requiredProof": "Removed reporting loops, faster answer cycles, and cleaner throughput from fewer reporting surfaces.",
+      "expansionReadinessScore": 72,
+      "executionDragScore": 45,
+      "ownerConfidenceScore": 79,
+      "accelerationConfidenceScore": 81,
+      "urgencyScore": 68,
+      "addressableExpansionValueMillions": 4.1,
+      "headline": "Revenue should hold broad acceleration until throughput stays cleaner for longer.",
+      "narrative": "The leverage story is strongest when the board can see analyst hours moving out of reconciliation work and into decision support.",
+      "nextMove": "Hold wider acceleration until reporting capacity shifts into one cleaner answer path and throughput gains stick.",
+      "companyTags": [
+        "Power BI",
+        "Tableau",
+        "Klaviyo",
+        "VWO"
+      ],
+      "relatedSurfaces": [
+        "revenue.kineticgain.com",
+        "leak.kineticgain.com",
+        "martech.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Revenue Infrastructure Scorecard",
+        "Platform Margin Leak Report",
+        "Portfolio Benchmark Waterfall"
+      ]
+    },
+    {
+      "id": "fintech-escalate-drag-cluster",
+      "owner": "FinTech diligence lead",
+      "audience": "Investor diligence committee",
+      "track": "FINTECH",
+      "action": "ESCALATE",
+      "readinessTheme": "Escalate drag clusters before promising scalable savings",
+      "boardQuestion": "Which lane still has too much drag and too little reinvestment confidence to scale safely?",
+      "currentPosture": "Payments, treasury, merchant review, and KYC all exist, but the operating stack still behaves like separate proof pockets rather than one leverage lane.",
+      "requiredProof": "Shared ownership, reduced queue drag, and higher reinvestment confidence across the FinTech family.",
+      "expansionReadinessScore": 43,
+      "executionDragScore": 81,
+      "ownerConfidenceScore": 53,
+      "accelerationConfidenceScore": 55,
+      "urgencyScore": 83,
+      "addressableExpansionValueMillions": 2.9,
+      "headline": "FinTech should be escalated before the board treats it as a scalable leverage story.",
+      "narrative": "The right move is to escalate drag pockets now rather than turn fragmented proof into an overclaimed scale narrative.",
+      "nextMove": "Escalate queue drag and ownership gaps into one diligence packet before approving wider leverage claims.",
+      "companyTags": [
+        "Payments",
+        "Treasury",
+        "KYC",
+        "Merchant risk"
+      ],
+      "relatedSurfaces": [
+        "payments.kineticgain.com",
+        "treasury.kineticgain.com",
+        "merchant.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Investor Diligence Pack",
+        "Treasury Liquidity Signal Lab",
+        "Merchant Risk Review Console",
+        "KYC Refresh Case Router"
+      ]
+    },
+    {
+      "id": "procurement-scale-answer-core",
+      "owner": "Procurement operations lead",
+      "audience": "Operating committee",
+      "track": "PROCUREMENT_TRUST",
+      "action": "ACCELERATE",
+      "readinessTheme": "Accelerate one answer core across the buyer path",
+      "boardQuestion": "Where can one already-clean proof core scale across more buyer and diligence motions?",
+      "currentPosture": "Procurement packaging is consolidated, trust evidence is reusable, and the answer core is ready to carry more volume.",
+      "requiredProof": "Lower cycle time, reused answers, and fewer custom proof packets across buyer workflows.",
+      "expansionReadinessScore": 88,
+      "executionDragScore": 27,
+      "ownerConfidenceScore": 91,
+      "accelerationConfidenceScore": 86,
+      "urgencyScore": 65,
+      "addressableExpansionValueMillions": 5.1,
+      "headline": "Procurement already has a scalable answer core that can carry more buyer load.",
+      "narrative": "The leverage signal comes from one answer system being reused across procurement, trust, and RFP workflows with lower custom effort.",
+      "nextMove": "Scale the answer core across procurement, trust center, and RFP lanes with one board-readable reuse packet.",
+      "companyTags": [
+        "Procurement",
+        "Trust center",
+        "Questionnaires",
+        "RFP"
+      ],
+      "relatedSurfaces": [
+        "procurement.kineticgain.com",
+        "questionnaire.kineticgain.com",
+        "trust.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Procurement Ready OS",
+        "Security Questionnaire Answer Studio",
+        "Trust Center Evidence Room",
+        "RFP Response Assembler"
+      ]
+    },
+    {
+      "id": "biotech-fortify-regulated-throughput",
+      "owner": "Quality systems sponsor",
+      "audience": "Regulated growth committee",
+      "track": "BIOTECH_DIAGNOSTICS",
+      "action": "FORTIFY",
+      "readinessTheme": "Fortify regulated throughput before wider operating reuse",
+      "boardQuestion": "Which regulated lane could become leverage later but first needs stronger throughput proof without control erosion?",
+      "currentPosture": "The biotech stack is stable and credible, but leadership still needs a clearer case that quality throughput is improving without weakening controls.",
+      "requiredProof": "Maintained control quality, faster case movement, and no new audit drag across GxP, CAPA, specimen, and safety lanes.",
+      "expansionReadinessScore": 61,
+      "executionDragScore": 39,
+      "ownerConfidenceScore": 77,
+      "accelerationConfidenceScore": 79,
+      "urgencyScore": 69,
+      "addressableExpansionValueMillions": 1.9,
+      "headline": "Biotech is a fortify-first lane: stronger throughput proof now, wider leverage later.",
+      "narrative": "The board story is that control quality held while throughput improved, not that the regulated stack was stripped too aggressively.",
+      "nextMove": "Fortify throughput evidence and publish a continuity packet before broader leverage claims are made.",
+      "companyTags": [
+        "GxP",
+        "CAPA",
+        "Specimen",
+        "Safety"
+      ],
+      "relatedSurfaces": [
+        "gxp.kineticgain.com",
+        "capa.kineticgain.com",
+        "specimen.kineticgain.com",
+        "safety.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "GxP Change Control Board",
+        "Batch Deviation CAPA Ledger",
+        "Specimen Chain of Custody Console",
+        "Pharmacovigilance Signal Router"
+      ]
+    }
+  ]
+}

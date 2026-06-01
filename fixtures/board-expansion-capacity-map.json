@@ -1,0 +1,225 @@
+{
+  "generatedAt": "2026-06-01T08:31:57.501Z",
+  "items": [
+    {
+      "id": "ai-unlock-decision-capacity",
+      "owner": "AI operating partner",
+      "audience": "Board strategy committee",
+      "track": "AI_PLATFORM",
+      "action": "UNLOCK",
+      "capacityTheme": "Unlock analyst and operator bandwidth through one flagship decision layer",
+      "boardQuestion": "Where can one system absorb more decision demand without adding more managerial overhead?",
+      "currentPosture": "The AI flagship is reducing wrapper noise and centralizing memo work, but leadership still needs one cleaner proof packet on absorbed decision load.",
+      "requiredProof": "Lower coordination overhead, faster memo turnarounds, and wider reuse by operating teams.",
+      "capacityScore": 86,
+      "bottleneckScore": 28,
+      "bandwidthConfidenceScore": 88,
+      "sequencingConfidenceScore": 87,
+      "urgencyScore": 73,
+      "unlockedCapacityValueMillions": 5.2,
+      "headline": "AI can absorb more decision demand without adding another layer of workflow sprawl.",
+      "narrative": "The strongest signal is that one system is already carrying more cross-functional decision work with less orchestration drag.",
+      "nextMove": "Package absorbed decision load and faster memo cycles into one board-safe capacity packet.",
+      "companyTags": [
+        "OpenAI",
+        "IBM",
+        "Azure",
+        "MCP"
+      ],
+      "relatedSurfaces": [
+        "scorecard.kineticgain.com",
+        "memo.kineticgain.com",
+        "watsonx.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "AI Governance & Agent Readiness Scorecard",
+        "Executive Board Brief",
+        "Board Narrative Memo Builder"
+      ]
+    },
+    {
+      "id": "identity-stabilize-admin-bandwidth",
+      "owner": "Identity assurance sponsor",
+      "audience": "Risk committee",
+      "track": "IDENTITY_SECURITY",
+      "action": "STABILIZE",
+      "capacityTheme": "Stabilize admin bandwidth before another identity consolidation ask",
+      "boardQuestion": "Which lane has strategic importance but still cannot absorb more change without burning scarce operators?",
+      "currentPosture": "Identity controls are clearer than before, but remediation ownership still runs thin and admin bandwidth remains brittle.",
+      "requiredProof": "Cleaner handoffs, lower exception churn, and stronger admin coverage across identity controls.",
+      "capacityScore": 58,
+      "bottleneckScore": 59,
+      "bandwidthConfidenceScore": 61,
+      "sequencingConfidenceScore": 72,
+      "urgencyScore": 77,
+      "unlockedCapacityValueMillions": 2.1,
+      "headline": "Identity should stabilize operator bandwidth before leadership adds more consolidation pressure.",
+      "narrative": "The board story here is not rapid expansion; it is to prove that control owners can absorb more load without reopening drift.",
+      "nextMove": "Stabilize admin bandwidth and prove lower exception churn before new consolidation motions land.",
+      "companyTags": [
+        "CyberArk",
+        "Okta",
+        "Entra",
+        "Intune"
+      ],
+      "relatedSurfaces": [
+        "identity.kineticgain.com",
+        "protect.kineticgain.com",
+        "guest.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Identity Risk Evidence Ledger",
+        "Access review evidence",
+        "Intune posture proof"
+      ]
+    },
+    {
+      "id": "revenue-hold-reporting-capacity",
+      "owner": "Revenue systems partner",
+      "audience": "CFO operating review",
+      "track": "REVENUE_SYSTEMS",
+      "action": "HOLD",
+      "capacityTheme": "Hold expansion until reporting teams stop spending cycles on explanation loops",
+      "boardQuestion": "Where does capacity look available on paper but still get consumed by reporting friction?",
+      "currentPosture": "Revenue systems reduced some backlog noise, but reporting operators still burn cycles reconciling overlapping answer paths.",
+      "requiredProof": "Fewer manual explanation loops, cleaner reporting ownership, and sustained reduction in reporting churn.",
+      "capacityScore": 69,
+      "bottleneckScore": 46,
+      "bandwidthConfidenceScore": 78,
+      "sequencingConfidenceScore": 80,
+      "urgencyScore": 68,
+      "unlockedCapacityValueMillions": 3.8,
+      "headline": "Revenue has latent capacity, but it should not be expanded until reporting friction drops further.",
+      "narrative": "The strongest board signal here is cleaner throughput, not another claim about general revenue-system leverage.",
+      "nextMove": "Hold wider expansion until reporting teams spend more hours on decisions and fewer on reconciliation.",
+      "companyTags": [
+        "Power BI",
+        "Tableau",
+        "Klaviyo",
+        "VWO"
+      ],
+      "relatedSurfaces": [
+        "revenue.kineticgain.com",
+        "leak.kineticgain.com",
+        "martech.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Revenue Infrastructure Scorecard",
+        "Platform Margin Leak Report",
+        "Portfolio Benchmark Waterfall"
+      ]
+    },
+    {
+      "id": "fintech-escalate-capacity-fragmentation",
+      "owner": "FinTech diligence lead",
+      "audience": "Investor diligence committee",
+      "track": "FINTECH",
+      "action": "ESCALATE",
+      "capacityTheme": "Escalate fragmented teams before promising more throughput",
+      "boardQuestion": "Which lane still has too many disconnected queues and not enough shared operator bandwidth to scale safely?",
+      "currentPosture": "Payments, treasury, merchant review, and KYC all exist, but the capacity story is fragmented and still depends on too many isolated proofs.",
+      "requiredProof": "Shared ownership, lower queue handoff cost, and stronger sequencing confidence across the FinTech family.",
+      "capacityScore": 42,
+      "bottleneckScore": 83,
+      "bandwidthConfidenceScore": 52,
+      "sequencingConfidenceScore": 57,
+      "urgencyScore": 84,
+      "unlockedCapacityValueMillions": 2.7,
+      "headline": "FinTech should be escalated before the board treats it as a lane with expandable capacity.",
+      "narrative": "The right move is to expose the fragmentation now rather than overstate how much throughput this stack can absorb.",
+      "nextMove": "Escalate fragmented queues and thin bandwidth into one diligence packet before another growth ask reaches the board.",
+      "companyTags": [
+        "Payments",
+        "Treasury",
+        "KYC",
+        "Merchant risk"
+      ],
+      "relatedSurfaces": [
+        "payments.kineticgain.com",
+        "treasury.kineticgain.com",
+        "merchant.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Investor Diligence Pack",
+        "Treasury Liquidity Signal Lab",
+        "Merchant Risk Review Console",
+        "KYC Refresh Case Router"
+      ]
+    },
+    {
+      "id": "procurement-unlock-trust-answer-bandwidth",
+      "owner": "Procurement operations lead",
+      "audience": "Operating committee",
+      "track": "PROCUREMENT_TRUST",
+      "action": "UNLOCK",
+      "capacityTheme": "Unlock buyer-path bandwidth through one reusable trust-answer core",
+      "boardQuestion": "Where can one answer system absorb more buyer load without creating more support overhead?",
+      "currentPosture": "Trust evidence is reusable, procurement packaging is consolidated, and the answer core is ready to absorb more buyer volume.",
+      "requiredProof": "Shorter cycle times, fewer custom packets, and wider answer reuse across procurement and trust flows.",
+      "capacityScore": 89,
+      "bottleneckScore": 24,
+      "bandwidthConfidenceScore": 92,
+      "sequencingConfidenceScore": 85,
+      "urgencyScore": 66,
+      "unlockedCapacityValueMillions": 4.9,
+      "headline": "Procurement can absorb more buyer demand through one reusable answer core.",
+      "narrative": "The board signal is not just fewer packets; it is a buyer path that scales without eating more internal attention.",
+      "nextMove": "Show reusable trust answers and lower cycle times in one board-readable capacity packet.",
+      "companyTags": [
+        "Procurement",
+        "Trust center",
+        "Questionnaires",
+        "RFP"
+      ],
+      "relatedSurfaces": [
+        "procurement.kineticgain.com",
+        "questionnaire.kineticgain.com",
+        "trust.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Procurement Ready OS",
+        "Security Questionnaire Answer Studio",
+        "Trust Center Evidence Room",
+        "RFP Response Assembler"
+      ]
+    },
+    {
+      "id": "biotech-stabilize-regulated-team-capacity",
+      "owner": "Quality systems sponsor",
+      "audience": "Regulated growth committee",
+      "track": "BIOTECH_DIAGNOSTICS",
+      "action": "STABILIZE",
+      "capacityTheme": "Stabilize regulated team capacity before another throughput promise",
+      "boardQuestion": "Which regulated lane has real progress but still needs tighter throughput continuity before expansion?",
+      "currentPosture": "The biotech stack is credible, but leadership still needs clearer proof that teams can absorb more volume without weakening controls.",
+      "requiredProof": "Sustained case flow, stable control quality, and no new review bottlenecks across GxP, CAPA, specimen, and safety lanes.",
+      "capacityScore": 63,
+      "bottleneckScore": 41,
+      "bandwidthConfidenceScore": 76,
+      "sequencingConfidenceScore": 78,
+      "urgencyScore": 70,
+      "unlockedCapacityValueMillions": 1.8,
+      "headline": "Biotech is a stabilize-first lane: stronger regulated team capacity now, wider expansion later.",
+      "narrative": "The board story is that regulated teams can carry more load without eroding continuity or control quality.",
+      "nextMove": "Stabilize throughput evidence and publish a continuity packet before wider expansion claims are made.",
+      "companyTags": [
+        "GxP",
+        "CAPA",
+        "Specimen",
+        "Safety"
+      ],
+      "relatedSurfaces": [
+        "gxp.kineticgain.com",
+        "capa.kineticgain.com",
+        "specimen.kineticgain.com",
+        "safety.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "GxP Change Control Board",
+        "Batch Deviation CAPA Ledger",
+        "Specimen Chain of Custody Console",
+        "Pharmacovigilance Signal Router"
+      ]
+    }
+  ]
+}
